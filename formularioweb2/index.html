@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilos.css" class="re">
+    <title>Document</title>
+</head>
+
+<body> 
+
+    <form action="" class="mostrar" id="formulario">
+        <h1>Inicio de Sesión</h1>
+        <h2>Bodega Lion S. Kennedy</h2>
+        <input type="email" id="txtEmail" placeholder="Ingresa tu email">
+        <br><br>
+        <input type="password" id="txtPassword" placeholder="Ingresa tu password">
+        <br><br>
+        <input type="button" value="Registrar" id="btnRegistrar">
+        <br><br>
+        <input type="button" value="Ingresar" id="btnIngresar">
+        <br><br>
+        <button type="button" value="Login Google" id="btnGoogle"> <img src="https://img.icons8.com/?size=512&id=17949&format=png" height ="50" width="50" /></button>
+        <button type="button"> <img src="https://img.icons8.com/?size=512&id=yGcWL8copNNQ&format=png" height ="50" width="50"/></button>
+        <img src="https://w0.peakpx.com/wallpaper/309/991/HD-wallpaper-resident-evil-resident-evil-infinite-darkness-leon-s-kennedy.jpg" class="imga" width="600px" >
+
+    </form>
+
+    
+    <div class="contenidoDeLaWeb ocultar" id="contenidoDeLaWeb">
+        <input type="button" value="Cerrar cuenta" id="btnCerrarSesion" style="background-color: red;">
+        <h3>BODEGA LION S. KENEDY</h3>
+        <img src="https://upload.wikimedia.org/wikipedia/en/8/8e/LeonS.Kenneduy.png" class="imglion" >
+        <div class="resultado" id="resultado"> 
+        </div>
+       
+        <div id="comentarios">
+            <br><br>
+            <input type="text" placeholder="Escribe el titulo" id="txtTitulo">
+            <br><br>
+            <input type="text" placeholder="Escribe la descricion" id="txtDescripcion">
+            <br><br>
+            <input type="button" value="Publicar" id="btnPublicar" style="background-color: chartreuse;">
+            <ul id="imprimirComentariosEnPantalla"></ul>  
+            
+        </div>
+    </div>
+    
+
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-app.js"> </script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-auth.js"> </script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-firestore.js">  </script> 
+    <script src="main.js">  </script>
+</body>
+
+</html>

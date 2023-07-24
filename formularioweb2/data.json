@@ -1,0 +1,126 @@
+
+[
+        {
+            "nombre":"Regla",
+            "precio": "El precio es S/5",
+            "id":"Id=01", 
+            "imge":"https://static.vecteezy.com/system/resources/previews/014/367/852/non_2x/school-wood-ruler-icon-cartoon-style-vector.jpg"
+        },
+        {
+            "nombre":"Lapiceros",
+            "precio": "El precio es S/1",
+            "id":"Id=02",
+            "imge":"https://createpublicidad.com/3016-large_default/lapicero-ecologico-codigo-7224-b.jpg" 
+        },
+        {
+            "nombre":"Tajador",
+            "precio": "El precio es S/3",
+            "id":"Id=03" ,
+            "imge":"https://offi.pe/image/catalog/PRODUCTOS/UTILES%20DE%20OFICINA/ESCRITURA/Reglas%20Tajadores/tajador-plastico-doble-deposito-podk2-kum.png"
+        },
+        {
+            "nombre":"Tijeras",
+            "precio": "El precio es S/7",
+            "id":"Id=04",
+            "imge":"https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/i/tijera-5-mnja-artesco-16302009-1319-default-1.jpg" 
+        },
+        {
+            "nombre":"Lapiz",
+            "precio": "El precio es S/2",
+            "id":"Id=05" ,
+            "imge":"https://definicion.de/wp-content/uploads/2011/10/lapiz.png"
+        },
+        {
+            "nombre":"Cuadernos",
+            "precio": "El precio es S/5",
+            "id":"Id=06",
+            "imge":"https://libreriasalesiana.pe/wp-content/uploads/2023/01/Cuaderno-Cuadriculado-2X2-Standford-1.jpg"
+        },
+        {
+            "nombre":"Mochila",
+            "precio": "El precio es S/30",
+            "id":"Id=07",
+            "imge":"https://assets.adidas.com/images/w_600,f_auto,q_auto/441f7bf366214bc487f2ad9e01210c69_9366/Mochila_Power_VI_Negro_HB1324_01_standard.jpg"
+        },
+        {
+            "nombre":"Borrador",
+            "precio": "El precio es S/1",
+            "id":"Id=08",
+            "imge":"https://images.utilex.pe/024947/650x650/borrador-blanco-grande-artesco-CYN7KRSAYFKXA.png"
+        },
+        {
+            "nombre":"Papelotes",
+            "precio": "El precio es S/10",
+            "id":"Id=09",
+            "imge":"https://francisco.pe/wp-content/uploads/2020/06/COD2520.jpg"
+        },
+        {
+            "nombre":"Calculadora",
+            "precio": "El precio es S/14",
+            "id":"Id=10",
+            "imge":"https://offi.pe/image/catalog/PRODUCTOS/UTILES%20DE%20OFICINA/ACCESORIOS%20ESCRITORIO/Calculadoras/calculadora-escritorio-ms-20uc-azul-bu-casio.png"
+        },
+        {
+            "nombre":"Resaltador",
+            "precio": "El precio es S/6",
+            "id":"Id=11" ,
+            "imge":"https://images.utilex.pe/094370/450x450/set-resaltador-boss-pastel-blister-x-5-unidades-stabilo-CYJSIVDTZP7ES.jpeg"
+        },
+        {
+            "nombre":"Engranpadora",
+            "precio": "El precio es S/8",
+            "id":"Id=12",
+            "imge":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/2017_Zszywacz_biurowy.jpg/1200px-2017_Zszywacz_biurowy.jpg"
+        },
+        {
+            "nombre":"Vinifan",
+            "precio": "El precio es S/3",
+            "id":"Id=13",
+            "imge":"https://wongfood.vtexassets.com/arquivos/ids/206455/Vinifan-Vinifan-Oficio-Cristal-1-64208.jpg?v=636525036163170000"
+        },
+        {
+            "nombre":"Plumones",
+            "precio": "El precio es S/6",
+            "id":"Id=14" ,
+            "imge":"https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_008142/tienda_008142_aa07451bf04a87db8b9cbe598f514d7a24f8cc5c_producto_medium_80.jpg"
+        },
+        {
+            "nombre":"Goma",
+            "precio": "El precio es S/7",
+            "id":"Id=15" ,
+            "imge":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEAg-JQAL38ru23MdI3yesJEYXRTM7OlAZ-thWWIG1-Yfgdckcfrq5U0p56pSqM82dbgg&usqp=CAU"
+        },
+        {
+            "nombre":"Silicona",
+            "precio": "El precio es S/3",
+            "id":"Id=16" ,
+            "imge":"https://cdn.shopify.com/s/files/1/0555/9078/1015/products/tienda_000396_e2c6f74ea3644c5b9eb57049e32bdb705a9b2982_producto_large_90.png?v=1665757185"
+        },
+        {
+            "nombre":"Temperas",
+            "precio": "El precio es S/9",
+            "id":"Id=17" ,
+            "imge":"https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/e/tempera-x-6-neon-artesco-x-20ml-26097-default-1.jpg"
+        },
+        {
+            "nombre":"Tiza",
+            "precio": "El precio es S/4",
+            "id":"Id=18" ,
+            "imge":"https://cdn.shopify.com/s/files/1/0566/2729/8480/products/descarga_0586a820-f022-41a0-8c02-ea28de7836a5_580x.jpg?v=1659564507"
+        },
+        {
+            "nombre":"Pinceles",
+            "precio": "El precio es S/13",
+            "id":"Id=19" ,
+            "imge":"https://casaideasperu.vtexassets.com/arquivos/ids/197945-800-auto?v=637849495712200000&width=800&height=auto&aspect=true"
+        },
+        {
+            "nombre":"Colores",
+            "precio": "El precio es S/7",
+            "id":"Id=20" ,
+            "imge":"https://minisope.vtexassets.com/arquivos/ids/203552-800-800?v=637998429651470000&width=800&height=800&aspect=true"
+        }
+
+
+    ]
+

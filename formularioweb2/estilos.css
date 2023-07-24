@@ -1,0 +1,52 @@
+.ocultar {
+    display: none;
+}
+
+.mostrar {
+    display: block;
+}
+.ima{
+    width: 50px;
+    height: 50px;
+}
+.ima2{
+    width: 50px;
+    height: 50px;
+}
+.resultado{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.producto{
+    text-align: center;
+    width: 319px;
+    padding-left:1px;
+    background-color: yellow;
+    margin:5px;
+    border-color:black;
+}
+img{
+    padding-left: center;
+}
+.listarDatos{
+    background-color: goldenrod;
+    border-radius: 6px;
+    width: 940px;
+}
+h1{
+    text-align: center;
+    background-color: red;
+}
+h2{
+    text-align: center;
+    background-color: yellowgreen;
+}
+
+.imga{
+    padding-top: 50px;
+    padding-left: 270px;
+}
+.imglion{
+    padding-left: 400px;
+}
